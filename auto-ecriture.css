@@ -1,0 +1,11 @@
+body, html {
+  margin: 0;
+  height: 100%;
+  text-align: center;
+  color: rgb(0, 191, 255);
+}
+
+#centeralign {
+  display: table-cell;
+  vertical-align: middle;
+}
